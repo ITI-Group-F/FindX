@@ -1,3 +1,6 @@
 [submodule "FindXWebApi"]
 	path = FindXWebApi
 	url = https://github.com/ITI-Group-F/FindXWebApi.git
+[submodule "FindXWebClient"]
+	path = FindXWebClient
+	url = https://github.com/ITI-Group-F/FindXWebClient.git
