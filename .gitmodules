@@ -4,3 +4,6 @@
 [submodule "FindXWebClient"]
 	path = FindXWebClient
 	url = https://github.com/ITI-Group-F/FindXWebClient.git
+[submodule "SimilarityService"]
+	path = SimilarityService
+	url = https://github.com/ITI-Group-F/SimilarityService.git
