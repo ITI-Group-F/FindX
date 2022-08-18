@@ -4,6 +4,7 @@
 <p align="center">
   Lost found system submitted in partial fulfillment of the requirement to graduation at ITI.
  </p>
+#
 ## Features
 1. Create posts for missing items with the last saw location and date.
 2. Real-time chat to communicate with registered users.
